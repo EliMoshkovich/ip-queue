@@ -10,6 +10,11 @@ In order to execute, you will need the following to be installed on your compute
 
 1. clone this repo
 2. make sure you run makefile
+
+### API example
+
+http://localhost:8080/get_slaves?amount=2&duration=10
+
  
 
 
